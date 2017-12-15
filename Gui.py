@@ -1,9 +1,3 @@
-##################################################
-#   fluxoz
-#   EEE 122
-#   Final Project
-#   12/14/17
-##################################################
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import pyqtSlot
